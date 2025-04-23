@@ -1,0 +1,16 @@
+ros-kilted-zed-msgs (5.0.0-2noble) noble; urgency=high
+
+  * Add new SvoStatus topic
+  * Add new HealthStatusStamped topic
+  * Add new SetSvoFrame service
+
+ -- STEREOLABS <support@stereolabs.com>  Fri, 28 Mar 2025 05:00:00 -0000
+
+ros-kilted-zed-msgs (4.2.5-2noble) noble; urgency=high
+
+  * Update Object.msg
+  * Update README.md
+
+ -- STEREOLABS <support@stereolabs.com>  Tue, 25 Mar 2025 05:00:00 -0000
+
+

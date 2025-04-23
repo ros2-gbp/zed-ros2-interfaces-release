@@ -1,1 +1,1 @@
-{"base": "8231332", "parent": "debian/rolling/zed_msgs", "previous": "c750a69", "trim": "", "trimbase": ""}
+{"base": "eea1700ed43b", "parent": "debian/kilted/zed_msgs", "previous": "fcefe48560b6", "trim": "", "trimbase": ""}

@@ -1,0 +1,30 @@
+ros-jazzy-zed-msgs (5.1.0-1noble) noble; urgency=high
+
+  * Add SaveAreaMemory service definition
+  * Contributors: Walter Lucetti
+
+ -- STEREOLABS <support@stereolabs.com>  Wed, 15 Oct 2025 22:00:00 -0000
+
+ros-jazzy-zed-msgs (5.0.1-1noble) noble; urgency=high
+
+  * Add SaveAreaMemory custom service
+  * Contributors: Walter Lucetti
+
+ -- STEREOLABS <support@stereolabs.com>  Sun, 25 May 2025 22:00:00 -0000
+
+ros-jazzy-zed-msgs (5.0.0-1noble) noble; urgency=high
+
+  * Add new SvoStatus topic
+  * Add new HealthStatusStamped topic
+  * Add new SetSvoFrame service
+
+ -- STEREOLABS <support@stereolabs.com>  Thu, 27 Mar 2025 23:00:00 -0000
+
+ros-jazzy-zed-msgs (4.2.5-1noble) noble; urgency=high
+
+  * Update Object.msg
+  * Update README.md
+
+ -- STEREOLABS <support@stereolabs.com>  Mon, 24 Mar 2025 23:00:00 -0000
+
+

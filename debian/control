@@ -1,0 +1,12 @@
+Source: ros-lyrical-zed-msgs
+Section: misc
+Priority: optional
+Maintainer: STEREOLABS <support@stereolabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-cmake-auto, ros-lyrical-ament-cmake-copyright <!nocheck>, ros-lyrical-ament-cmake-cppcheck <!nocheck>, ros-lyrical-ament-cmake-lint-cmake <!nocheck>, ros-lyrical-ament-cmake-pep257 <!nocheck>, ros-lyrical-ament-cmake-uncrustify <!nocheck>, ros-lyrical-ament-cmake-xmllint <!nocheck>, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-builtin-interfaces, ros-lyrical-geometry-msgs, ros-lyrical-rosidl-default-generators, ros-lyrical-shape-msgs, ros-lyrical-std-msgs, ros-lyrical-ros-workspace, ros-lyrical-rosidl-typesupport-fastrtps-c, ros-lyrical-rosidl-typesupport-fastrtps-cpp
+Homepage: https://www.stereolabs.com/
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-zed-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-geometry-msgs, ros-lyrical-rosidl-default-runtime, ros-lyrical-shape-msgs, ros-lyrical-std-msgs, ros-lyrical-ros-workspace
+Description: Contains message and service definitions used by the ZED ROS2 nodes.

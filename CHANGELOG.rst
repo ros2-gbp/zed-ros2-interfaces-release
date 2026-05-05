@@ -2,6 +2,12 @@
 Changelog for package zed_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.3.0 (2026-05-05)
+------------------
+* Update PosTrackStatus to GEN_3
+* Add "scene_illuminance" to health status message
+* Contributors: Walter Lucetti
+
 5.2.1 (2026-03-02)
 ------------------
 * Remove unused URDF files and associated references from CMakeLists and README

@@ -17,7 +17,7 @@ tracks:
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
     devel_branch: master
-    last_version: 5.2.1
+    last_version: 5.3.0
     name: zed-ros2-interfaces
     patches: null
     release_inc: '1'

@@ -2,6 +2,11 @@
 Changelog for package zed_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.5.0 (2026-10-07)
+------------------
+* Add pose_confidence and duplicated_image
+* Contributors: Walter Lucetti
+
 5.3.0 (2026-05-05)
 ------------------
 * Update PosTrackStatus to GEN_3
